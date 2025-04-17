@@ -22,7 +22,7 @@ pip install h5py==3.13.0 matplotlib==3.10.0 tqdm==4.67.1 prettytable==3.14.0 ten
 ```
 
 ## Pretrained models
-Pretrained models for single-configuration (SC) and multi-configuration (MC) can be found in `./pretrained_ckpts`. 
+Pretrained models for single-configuration (SC) and multi-configuration (MC) can be found on [zenodo](https://doi.org/10.5281/zenodo.15236991). 
 
 SC: Solely trained on a turbulent channel flow at a friction Reynolds number of 1000.
 MC: Trained on a combined dataset containing samples from the turbulent channel flow at 1000 and turbulent boundary layer flows at 390 and 1500.
