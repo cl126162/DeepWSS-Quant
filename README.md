@@ -3,7 +3,7 @@
 ![Representative image](./res/overview.jpg)
 
 ### Overview
-This is the official PyTorch implementation of our paper [From numerical training to zero-shot experimental application: A generalized deep learning approach to wall-shear stress quantification](https://arxiv.org/).
+This is the official PyTorch implementation of our paper [From numerical training to zero-shot experimental application: A generalized deep learning approach to wall-shear stress quantification](https://arxiv.org/abs/2409.03933).
 
 ## Requirements
 The code has been tested with PyTorch 2.4 and Cuda 12.4 on a NVIDIA A100 40Gb.
